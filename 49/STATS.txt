@@ -1,0 +1,2 @@
+STATS:
+49. Group Anagrams|10m28s|76|20.21
