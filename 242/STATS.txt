@@ -1,0 +1,2 @@
+STATS:
+242. Valid Anagram|6m30s|41|16.96
