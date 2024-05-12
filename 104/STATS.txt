@@ -1,0 +1,2 @@
+STATS:
+104. Maximum Depth of Binary Tree|5m53s|45ms|17.70mb
